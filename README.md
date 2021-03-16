@@ -10,13 +10,6 @@
 Bem vindo ao repositório de códigos das aulas de Algoritmos com Python. :snake:
 </p>
 
-**O Repositório está organizado da seguinte forma:**
-
-
-* :space_invader: # **STEPS** : são os códigos desenvolvidos nas aulas junto com o professor para compreender novos recursos e/ou estruturas passo à passo.
-* :dart: # **TASKS**: resolução das atividades propostas pelo professor nas aulas que tem como objetivo colocar em prática o aprendizado de recursos e/ou estruturas específicas.
-* :trophy: # **CHALLENGE**: resolução e solução de desafios propostos pelo professor com o objetivo de colocar em prática e fortalecer o aprendizado de recursos e/ou estruturas trabalhando juntas com o que você aprendeu até o momento.
-
 
 Você pode utilizar este repositório para consulta dos códigos :rocket:. 
 

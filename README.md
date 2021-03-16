@@ -10,8 +10,10 @@
 Bem vindo ao repositório de códigos das aulas de Algoritmos com Python. :snake:
 </p>
 
-
+<p align="center">
 Você pode utilizar este repositório para consulta dos códigos :rocket:. 
+</p>
+
 
 ---
 
